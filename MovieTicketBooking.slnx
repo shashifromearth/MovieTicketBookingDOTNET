@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MovieTicketBooking.Api/MovieTicketBooking.Api.csproj" />
+    <Project Path="src/MovieTicketBooking.Domain/MovieTicketBooking.Domain.csproj" />
+    <Project Path="src/MovieTicketBooking.Infrastructure/MovieTicketBooking.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MovieTicketBooking.Tests/MovieTicketBooking.Tests.csproj" />
+  </Folder>
+</Solution>
